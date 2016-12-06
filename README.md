@@ -1,15 +1,18 @@
 # gallery 
 ## cfg default.js 文件
+```cfg 
   loaders:[
        {
-          test:/正则匹配的名称/,  //sass
-          load:初始化1!初始化2!outputStyle=输出样式(格式化|单行|压缩|未压缩)
+          test:/正则匹配的名称/,  /*sass*/
+          load:初始化1!初始化2!outputStyle=输出样式(格式化|单行|压缩|未压缩)
       }
       {
           test:/正则匹配的名称/,
           load:初始化1!初始化2!
       }
   ]
+  
+```
 ## Main.js结构
 ```React
 import React
