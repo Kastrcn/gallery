@@ -1,4 +1,5 @@
 # gallery 
+[浏览](https://kastrcn.github.io/React-Demo/)
 ## cfg default.js 文件
 ```React
   loaders:[
